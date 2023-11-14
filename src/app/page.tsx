@@ -2,8 +2,6 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <div>
-      aaaa
-    </div>
+    <div></div>
     )
 }
