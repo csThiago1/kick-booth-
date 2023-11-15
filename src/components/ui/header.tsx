@@ -1,4 +1,4 @@
-import { MenuIcon } from "lucide-react";
+import { MenuIcon, ShoppingCart} from "lucide-react";
 import { Card, CardContent } from "./card";
 import { Button } from "./button";
 
@@ -12,7 +12,7 @@ const Header = () => {
         <h1>Kick Booth</h1>
 
         <Button size="icon" variant="outline">
-            <ShoppingCartIcon />
+            <ShoppingCart />
         </ Button>
     </Card>    
     );
